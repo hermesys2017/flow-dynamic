@@ -8,7 +8,7 @@
 
 - 보유하신 유속 격자/흐름격자/수심 격자 파일을 GitHub에 업로드해주시면, 아래와 같이 동적 가시화된 물의 흐름을 보실 수 있습니다.
 
-  - Live Demo : http://210.92.123.200/flowmap/index_osim_G2D_Sample_20240307.html
+  - Live Demo : [청미천 흐름 동적 가시화](http://210.92.123.200/flowmap/index_osim_G2D_Sample_20240307.html)
   
   ![Screenshot](/screenshots/Cheongmicheon_Dynamic_flow.gif?raw=true)
 
