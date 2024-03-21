@@ -1,12 +1,15 @@
 # flow-dynamic
 - [HermeSys](https://hermesys.cafe24.com/)에서 운영중인 GitHub organization 입니다.
-- 물의 흐름(FLOW) 방향과 속도 데이터를 이용하여 동적으로 가시화 할 수 있습니다.
+- 물의 흐름(FLOW) 방향과 속도 데이터를 이용하여 동적으로 가시화한 결과를 웹페이지에 서비스해 드리고 있습니다.
 - 해당 서비스는 무료로 진행되고 있으며, 유료서비스는 준비중에 있습니다.
 
  ---
  
-
-- 보유하신 유속 격자/흐름격자/수심 격자 파일을 GitHub [DATA](https://github.com/hermesys2017/flow-dynamic/tree/main/DATA) 폴더에 업로드해주시면, 아래와 같이 동적 가시화된 물의 흐름을 보실 수 있습니다.
+- 보유한 유속 격자/흐름격자/수심 격자 파일을 압축하여 GitHub [DATA](https://github.com/hermesys2017/flow-dynamic/tree/main/DATA) 폴더에 업로드 해주세요.
+- 데이터 작업후 아래와 같이 동적 가시화된 물의 흐름을 웹페이지에서 서비스해드립니다.
+- 파일은 아래 입력 데이터 규칙에 맞게 업로드해주세요.
+- 업무스케쥴에 따라 작업 소요 시간이 유동적이다보니 완료 일정을 예측할 수 없는점 양해바랍니다.
+- 회원간 데이터 구분없이 모든 데이터가 오픈되고, 작업이 완료되면 별도의 통보없이 웹서비스가 됩니다.
 
   - Live Demo : [청미천 흐름 동적 가시화](http://210.92.123.200/flowmap/index_osim_G2D_Sample_20240307.html)
   
