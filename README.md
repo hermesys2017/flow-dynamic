@@ -21,7 +21,7 @@
 - 유속 격자와 흐름 격자는 동적으로 가시화 하기 위한 필수 파일입니다.
 - 수심 격자 파일은 배경맵으로 사용하기 위한 것으로 필수 파일은 아닙니다.
 - 아래 3 종류의 래스터 파일을 DATA 저장소에 업로드해주시기 바랍니다.
-  - 유속 격자 파일(필수) 예) 01_G2D_Sample_fdTest_Velocity_10_00h.out
-  - 흐름 격자 파일(필수) 예) 01_G2D_Sample_fdTest_FDmaxVelocity_10_00h.out
-  - 수심 격자 파일(선택) 예) 01_G2D_Sample_fdTest_Depth_10_00h.out
+  - 유속 격자 파일(필수) - 파일명에 "Velocity" 입력 예) 01_G2D_Sample_fdTest_Velocity_10_00h.out
+  - 흐름 격자 파일(필수) - 파일명에 "fd" 입력       예) 01_G2D_Sample_fdTest_FDmaxVelocity_10_00h.out
+  - 수심 격자 파일(선택) - 파일명에 "Depth" 입력    예) 01_G2D_Sample_fdTest_Depth_10_00h.out
 
