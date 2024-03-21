@@ -10,7 +10,7 @@
 
   - Live Demo : [청미천 흐름 동적 가시화](http://210.92.123.200/flowmap/index_osim_G2D_Sample_20240307.html)
   
-  ![Screenshot](/screenshots/Cheongmicheon_Dynamic_flow.gif?raw=true)
+  ![Screenshot](/screenshots/Cheongmicheon_Dynamic_flow_20240321_1130.gif?raw=true)
 
 ## 입력 데이터
 - G2D 플러그인을 통해 산출된 유속 격자 및 흐름 격자 결과물을 입력 데이터로 사용할 수 있습니다. 
