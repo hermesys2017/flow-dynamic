@@ -15,19 +15,5 @@
   
   ![Screenshot](/screenshots/Cheongmicheon_Dynamic_flow_20240321_1130.gif?raw=true)
 
-## 입력 데이터
-- [G2D 플러그인](https://github.com/floodmodel/G2D)을 통해 산출된 유속 격자 및 흐름 격자(Flow Direction) 결과물을 입력 데이터로 사용할 수 있습니다. 
-- 입력 데이터 좌표계(SRS) = EPSG 4326, 공간해상도(Spatial Resolution)=0.0001, Raster Format만 지원합니다.
-- 유속 격자와 흐름 격자는 동적으로 가시화 하기 위한 필수 파일입니다.
-  - 흐름 방향 인덱스정보를 함께 제공해야함. 예) E1 = 1, S3 = 3, W5 = 5, N7 = 7
-- 수심 격자 파일은 배경맵으로 사용하기 위한 것으로 필수 파일은 아닙니다.
-- 아래 3 종류의 래스터 파일을 DATA 저장소에 업로드해주시기 바랍니다.
-  - 유속 격자 파일(필수) - 파일명에 "Velocity" 입력 예) G2D_Sample_Velocity_10h.out
-  - 흐름 격자 파일(필수) - 파일명에 "fd" 입력       예) G2D_Sample_FD_10h.out
-  - 수심 격자 파일(선택) - 파일명에 "Depth" 입력    예) G2D_Sample_Depth_10h.out
- - userABC 인 경우 아래와 같은 명명 규칙 참고
-  - flow-dynamic/DATA/userABC/g2d_run_20240301_v1.zip
-  - flow-dynamic/DATA/userABC/g2d_run_20240301_v2.zip
-  - flow-dynamic/DATA/userABC/g2d_run_20240325.zip
 
 
