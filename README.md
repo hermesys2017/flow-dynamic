@@ -15,5 +15,6 @@
   
   ![Screenshot](/screenshots/Cheongmicheon_Dynamic_flow_20240321_1130.gif?raw=true)
 
+[Input Data 구비 방법](https://github.com/hermesys2017/flow-dynamic/wiki)
 
 
