@@ -7,7 +7,7 @@
  
 - 보유한 유속 격자/흐름격자/수심 격자 파일을 압축하여 GitHub [DATA](https://github.com/hermesys2017/flow-dynamic/tree/main/DATA) 폴더에 업로드 해주세요.
 - 데이터 작업후 아래와 같이 동적 가시화된 물의 흐름을 웹페이지에서 서비스해드립니다.
-- 파일은 [Input Data 구비 방법](https://github.com/hermesys2017/flow-dynamic/wiki) 맞게 업로드해주세요.
+- 파일은 [Input Data 구비 방법]에(https://github.com/hermesys2017/flow-dynamic/wiki) 맞게 업로드해주세요.
 - 대략 10 working days 이내에 구축되어 제시됩니다.
 - 업로드하신 데이터는 퍼브릭에게 오픈되고, flow map 구축 작업이 완료되면 별도의 통보없이 서비스가 시작됩니다.
 
