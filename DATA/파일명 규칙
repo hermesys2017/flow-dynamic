@@ -1,3 +1,10 @@
-- 유속 격자 파일명에는 Velocity 입력(필수파일)
-- 흐름 격자 파일명에는 fd 입력(필수파일)
-- 수심 격자 파일명에는 Depth 입력(선택파일)
+<파일명>
+- 유속 격자 파일(필수) - 파일명에 "Velocity" 입력 예) G2D_Sample_Velocity_10h.out
+- 흐름 격자 파일(필수) - 파일명에 "fd" 입력 예) G2D_Sample_FD_10h.out
+- 수심 격자 파일(선택) - 파일명에 "Depth" 입력 예) G2D_Sample_Depth_10h.out
+
+<경로 및 폴더명>
+"userABC" 인 경우 아래와 같은 명명 규칙 참고
+- flow-dynamic/DATA/userABC/g2d_run_20240301_v1.zip
+- flow-dynamic/DATA/userABC/g2d_run_20240301_v2.zip
+- flow-dynamic/DATA/userABC/g2d_run_20240325.zip
